@@ -1,4 +1,4 @@
-# MySql---Task---1
+# MySql---Task---1(Screenshots for the above queries is as below):
 
 # 1. Create tables for the above list given
 
