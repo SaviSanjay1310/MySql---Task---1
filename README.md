@@ -11,3 +11,6 @@
 ![Q3](https://user-images.githubusercontent.com/92391756/158526162-f5f1f587-9170-4bec-9d33-e80b115d0d5d.PNG)
 
 # 4. display the no of company drives attended by a user
+![Q4](https://user-images.githubusercontent.com/92391756/158526167-383d0618-c6c0-43e9-b690-5fc162c5267e.PNG)
+
+![Q4(2)](https://user-images.githubusercontent.com/92391756/158526165-191c2ff3-a9c2-45f7-a673-f5ba7bf38bd5.PNG)
